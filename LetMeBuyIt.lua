@@ -1,0 +1,5 @@
+local f=CreateFrame("Frame")
+f:SetScript("OnEvent", function(self, event)
+	MerchantFrame_SetFilter(MerchantFrame, 1)
+end)
+f:RegisterEvent("MERCHANT_SHOW")
