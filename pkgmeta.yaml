@@ -1,0 +1,5 @@
+package-as: LetMeBuyIt
+
+ignore:
+  - LICENSE.md
+  - README.md
