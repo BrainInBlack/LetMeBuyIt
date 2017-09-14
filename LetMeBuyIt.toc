@@ -1,8 +1,8 @@
-## Interface: 70200
+## Interface: 70300
 
 ## Title: LetMeBuyIt
 ## Notes: Sets the Mechant Filter to "All"
-## Version: 1.2.2
+## Version: 1.2.3
 ## Author: BrainInBlack
 
 LetMeBuyIt.lua
