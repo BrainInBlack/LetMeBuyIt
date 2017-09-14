@@ -3,3 +3,6 @@ package-as: LetMeBuyIt
 ignore:
   - LICENSE.md
   - README.md
+  - CHANGELOG.md
+
+manual-changelog: CHANGELOG.md
