@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.4
+* Implemented cleaner changelog for the Curse Build System
+* Improved InGame Description
+
 ## 1.2.2 - 1.2.3
 * Incremental Interface version change (WoW patch 7.2.x and 7.3.x)
 
