@@ -14,8 +14,8 @@ This addon basically reverts this behaviour and defaults the filter for all merc
 
 ## Credits
 
-Daniel "BrainInBlack" Lieberwirth
+[**Daniel Lieberwirth** (BrainInBlack)](https://github.com/BrainInBlack)
 
 ## License
 
-GNU LGPL-3.0 License
+[GNU LGPL-3.0 License](LICENSE.md)
