@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.5
+* Fixed filter application timing @Pr3vention #1
+* Interface Version Update @Pr3vention #1
+* Micro-Optimizations @BrainInBlack
+
 ## 1.2.4
 * Implemented cleaner changelog for the Curse Build System
 * Improved InGame Description
