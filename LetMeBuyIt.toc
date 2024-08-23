@@ -1,8 +1,8 @@
-## Interface: 100100
+## Interface: 110002
 
 ## Title: LetMeBuyIt
 ## Notes: Sets all Mechant Filters to "All"
-## Version: 1.2.5
+## Version: 1.2.6
 ## Author: BrainInBlack, Pr3vention
 
 LetMeBuyIt.lua
