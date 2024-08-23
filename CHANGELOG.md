@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.6
+* Interface version update for 11.0.2
+* Fixed merchant filter application error
+
 ## 1.2.5
 * Fixed filter application timing @Pr3vention #1
 * Interface Version Update @Pr3vention #1
