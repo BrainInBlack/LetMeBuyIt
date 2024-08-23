@@ -1,4 +1,4 @@
-## Interface: 100100
+## Interface: 110002
 
 ## Title: LetMeBuyIt
 ## Notes: Sets all Mechant Filters to "All"
